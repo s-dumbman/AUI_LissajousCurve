@@ -15,4 +15,5 @@ U(x) = [(f(x),p(x)]
 다른 합성 방식 또한 존재하지만 코드로서 나타내기 가장 편한 방식을 사용하였습니다.
 cos 변환자는 구현하지 않았습니다. (위상차로 대체됨)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s.dumbman)](https://github.com/s.dumbman/github-readme-stats)
 <a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
